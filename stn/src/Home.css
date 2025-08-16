@@ -1,0 +1,181 @@
+.banner {
+    height: 600px;
+    width: 100%;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.banner-text {
+    color: #FDAD22;
+    background-color: #0b0036;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 60px;
+    padding-top: 15px;
+}
+
+.text-one {
+    background-color: #0b0036;
+    color: white;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.one {
+    font-size: xx-large;
+    padding-left: 50px;
+}
+
+.two {
+    font-size: xx-large;
+    padding-left: 50px;
+    margin-top: 25px;
+}
+
+.three {
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.four {
+    height: 80px;
+    background-color: #0b0036;
+    text-align: center;
+    justify-content: center;
+}
+
+.four > button {
+    background-color: #FDAD22;
+    color: black;
+    font-size: xx-large;
+}
+
+.four:hover {
+    text-decoration: underline;
+}
+
+
+
+.homelogos-one {
+    width: 100%;
+    height: 100%;
+}
+
+.touch {
+    color: black;
+    background-color: #f2f2f2;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.quote {
+    font-size: xx-large;
+    font-weight: lighter;
+    padding-top: 40px;
+}
+
+
+.so {
+    height: 50px;
+    width: 150px;
+    color: #ffff;
+    background-color: #FDAD22;
+    margin-top: 40px;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 560px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.homeSelectionPic {
+    display: flex;
+    justify-content: space-between;
+    background-color: gainsboro;
+    height: 380px;
+}
+
+.picOne {
+    display: grid;
+}
+
+.picTwo {
+    display: grid;
+}
+
+.picThree {
+    display: grid;
+}
+
+.picFour {
+    display: grid;
+}
+
+.door {
+    height: 330px;
+    width: 300px;
+}
+
+.support {
+    height: 330px;
+    width: 300px;
+}
+
+.event {
+    height: 330px;
+    width: 300px;
+}
+
+.manned {
+    height: 330px;
+    width: 300px;
+}
+
+.doorText {
+    height: 50px;
+    width: 100%;
+    background-color: #0b0036;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.supportText {
+    height: 50px;
+    width: 100%;
+    background-color: #0b0036;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.eventText {
+    height: 50px;
+    width: 100%;
+    background-color: #0b0036;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.mannedText {
+    height: 50px;
+    width: 100%;
+    background-color: #0b0036;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
